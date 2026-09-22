@@ -1,0 +1,12 @@
+export const seedCars = [
+  { id: "car_1", name: "Meridian GT", type: "Sports", seats: 2, trans: "Auto", power: "480 hp", rangeLabel: "12 mpg", price: 189, rating: 4.9, reviews: 214, tone: "amber", location: "Downtown Hub", featured: true, status: "available" },
+  { id: "car_2", name: "Aster Volt", type: "Electric", seats: 5, trans: "Auto", power: "320 hp", rangeLabel: "310 mi", price: 96, rating: 4.8, reviews: 341, tone: "teal", location: "Airport North", featured: true, status: "available" },
+  { id: "car_3", name: "Basin Ridge", type: "SUV", seats: 7, trans: "Auto", power: "295 hp", rangeLabel: "24 mpg", price: 84, rating: 4.7, reviews: 502, tone: "slate", location: "Downtown Hub", featured: false, status: "available" },
+  { id: "car_4", name: "Corvet Line", type: "Sedan", seats: 5, trans: "Auto", power: "210 hp", rangeLabel: "34 mpg", price: 58, rating: 4.6, reviews: 611, tone: "slate", location: "Central Station", featured: false, status: "available" },
+  { id: "car_5", name: "Fenwick Compact", type: "Compact", seats: 4, trans: "Manual", power: "140 hp", rangeLabel: "41 mpg", price: 39, rating: 4.5, reviews: 388, tone: "slate", location: "Central Station", featured: false, status: "available" },
+  { id: "car_6", name: "Halden Cross", type: "SUV", seats: 5, trans: "Auto", power: "268 hp", rangeLabel: "27 mpg", price: 76, rating: 4.7, reviews: 276, tone: "slate", location: "Airport North", featured: false, status: "available" },
+  { id: "car_7", name: "Iberis Spark", type: "Electric", seats: 4, trans: "Auto", power: "201 hp", rangeLabel: "260 mi", price: 71, rating: 4.6, reviews: 198, tone: "teal", location: "Downtown Hub", featured: false, status: "maintenance" },
+  { id: "car_8", name: "Solmar Coupe", type: "Sports", seats: 2, trans: "Manual", power: "395 hp", rangeLabel: "18 mpg", price: 156, rating: 4.8, reviews: 129, tone: "amber", location: "Central Station", featured: true, status: "available" },
+  { id: "car_9", name: "Northbend Wagon", type: "Sedan", seats: 5, trans: "Auto", power: "188 hp", rangeLabel: "36 mpg", price: 52, rating: 4.4, reviews: 445, tone: "slate", location: "Airport North", featured: false, status: "available" },
+  { id: "car_10", name: "Kestrel Micro", type: "Compact", seats: 4, trans: "Auto", power: "122 hp", rangeLabel: "45 mpg", price: 34, rating: 4.3, reviews: 302, tone: "slate", location: "Downtown Hub", featured: false, status: "available" }
+];

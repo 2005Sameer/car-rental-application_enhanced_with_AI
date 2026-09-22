@@ -1,0 +1,21 @@
+:root {
+  --bg: #14171a;
+  --panel: #1e232a;
+  --panel-2: #262c34;
+  --panel-hover: #2a313a;
+  --edge: #313842;
+  --edge-bright: #3d4652;
+  --text: #f5f3ee;
+  --muted: #a3a9b0;
+  --muted-2: #767d87;
+  --accent: #ffb020;
+  --accent-bright: #ffc857;
+  --accent-ink: #1a1305;
+  --accent-glow: rgba(255, 176, 32, 0.35);
+  --teal: #3fd6c4;
+  --teal-glow: rgba(63, 214, 196, 0.3);
+  --danger: #ff5d73;
+  --danger-glow: rgba(255, 93, 115, 0.3);
+  --radius: 8px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
